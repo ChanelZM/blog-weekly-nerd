@@ -66,7 +66,7 @@ Coming soon
 2. An Introduction to Dev Tools.
 3. Accessible HTML without using ARIA.
 4. Accessibility guidelines.
-5. Get to know all browsers.
+5. The Process of Page Rendering in the browser.
 
 - *IoT and security*
 - *GraphQL*
