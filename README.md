@@ -62,9 +62,9 @@ This week another blind developer visited the HvA, Leonie Wattson, and talked ab
 Coming soon
 
 ## The topics i will be discussing
-1. Why it isn't the end of the world if you use div's every now and then
+1. [Why it isn't the end of the world if you use div's every now and then](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/usingdivs.md)
 2. [An Introduction to Dev Tools)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/devtools.md)
-3. Accessible HTML without using ARIA
+3. Accessible HTML with ARIA
 4. Web Animation API
 5. [Getting to know Git more (undoing changes)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/git.md)
 
