@@ -36,7 +36,7 @@ The sixth week, the most interesting talker yet, Bram Duvigneau, a blind develop
 ![](images/wn-6.jpg)
 
 ## Week 7
-This week a speaker, who's name I forgot, talked about his creations a made using IoT devices.
+This week a speaker, who's name I forgot, talked about his creations made with IoT devices.
 
 ![](images/wn-7.1.jpg)
 ![](images/wn-7.2.jpg)
@@ -58,15 +58,16 @@ This week another blind developer visited the HvA, Leonie Wattson, and talked ab
 
 ![](images/wn-11.jpg)
 
-## Week 12
+## CSS day
 Coming soon
 
 ## The topics i will be discussing
-1. Native vs. Web
-2. An Introduction to Dev Tools.
-3. Accessible HTML without using ARIA.
-4. Accessibility guidelines.
-5. The Process of Page Rendering in the browser.
+1. Why it isn't the end of the world if you use div's every now and then
+2. [An Introduction to Dev Tools)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/devtools.md)
+3. Accessible HTML without using ARIA
+4. Web Animation API
+5. [Getting to know Git more (undoing changes)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/git.md)
 
 - *IoT and security*
 - *GraphQL*
+- *Why I designer should know a little bit of code*
