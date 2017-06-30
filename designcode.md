@@ -1,5 +1,6 @@
 ## Designer, learn to code (a little bit)
 ![](https://uploads.gravitatedesign.com/legacy/designeranddeveloper.jpg)
+
 During my second year studying at the University of Applied Sciences in Amsterdam, I had to build a webshop with three other students. It was our first real client. In our team we had two designers, one developer and me, a developer and designer. At a point during our project one of the designers came up with an idea to build something that was impossible to create, because we didn't have the knowledge back then. The designer actually thought that it would be easy to make, forgetting that he hardly had any knowledge of code.
 
 Not being able to accurately estimate what's possible is just one of the reasons why it doesn't hurt to know a little bit of code when you're a designer. Being a designer and knowing code has more pros than you think. Here's why.
