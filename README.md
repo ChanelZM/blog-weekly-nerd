@@ -4,6 +4,13 @@ During the minor Everything Web I followed, a developer visited us every Tuesday
 
 In this repo all sketch notes (some are Dutch) are viewable along with the 5 written articles. At the end of this read me you can find links to these articles.
 
+## The topics i will be discussing
+1. [Why it isn't the end of the world if you use div's every now and then](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/usingdivs.md)
+2. [An Introduction to Dev Tools](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/devtools.md)
+3. [Designer, learn to code (a little bit)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/designcode.md)
+4. [Web Animation API](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/webanim.md)
+5. [Getting to know Git more (undoing changes)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/git.md)
+
 ## Week 1
 The first week Stephen Hay, designer and developer at CataWiki, had a question & answer.
 
@@ -61,13 +68,6 @@ This week another blind developer visited the HvA, Leonie Wattson, and talked ab
 ## CSS day
 Coming soon
 
-## The topics i will be discussing
-1. [Why it isn't the end of the world if you use div's every now and then](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/usingdivs.md)
-2. [An Introduction to Dev Tools)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/devtools.md)
-3. Accessible HTML with ARIA
-4. Web Animation API
-5. [Getting to know Git more (undoing changes)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/git.md)
-
 - *IoT and security*
 - *GraphQL*
-- *Why I designer should know a little bit of code*
+- *Why a designer should know a little bit of code*
