@@ -8,7 +8,7 @@ In this repo all sketch notes (some are Dutch) are viewable along with the 5 wri
 1. [Why it isn't the end of the world if you use div's every now and then](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/usingdivs.md)
 2. [An Introduction to Dev Tools](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/devtools.md)
 3. [Designer, learn to code (a little bit)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/designcode.md)
-4. [Web Animation API](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/webanim.md)
+4. [A more detailed look at Web Animation API](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/webanim.md)
 5. [Getting to know Git more (undoing changes)](https://github.com/ChanelZM/blog-weekly-nerd/blob/master/git.md)
 
 ## Week 1
