@@ -3,9 +3,9 @@
 >*"The Chrome Developer Tools (DevTools for short), are a set of web authoring and debugging tools built into Google Chrome."*
 >-[Chrome](https://developer.chrome.com/devtools)
 
-Let's be honest about one thing, if DevTools wouldn't exist, it would make our developers life's much more complicated. We can use it to access the console (such a powerful tool to debug), the html file (more debugging),css (guess what, more debugging) and to use it to change lines of code and seeing it live changing without changing it first in our local file and refreshing it again. They also added a button 'Toggle device toolbar' to view the page in several iPhone's and iPads. These are the features every developer uses DevTools for.
+Let's be honest about one thing, if DevTools wouldn't exist, it would make our developers life's much more complicated. We can use it to access the console (such a powerful tool to debug), the HTML file (more debugging), CSS (guess what, more debugging) and to use it to edit lines of code and seeing your changes live without saving it first in our local file and refreshing it again. They also added a button 'Toggle device toolbar' to view the page in several iPhone's and iPads formats. These are the features every developer uses DevTools for.
 
-But there is more to it than just the features mentioned above. And if you're a young developer that has a lot to learn, I suggest reading this article and getting to know DevTools better because it will save you time.
+But there is more to it than just the features mentioned above. And if you're a new developer that has a lot to learn, I suggest reading this article and getting to know DevTools better because it will save you time.
 
 ## Sources Tab
 ### Adding/Changing code
@@ -18,7 +18,7 @@ If you do want to apply the changes to your original file you could right click 
 When you select 'Local Modifications' you will see the timestamps of your changes and what was changed.
 
 ### Debug Javascript
-DevTools can also be used to debug JavaScript. In the tab on the far right there is a pause button. When you click pause and reload the script it will pause the code on the spot where an error occurs and will show it to you. If a variable isn't set correctly DevTools will show you the value of the variable (Codeschool, no date).
+DevTools can also be used to debug JavaScript. In the tab on the far right there is a pause button. When you click pause and reload the script it will pause the code at the spot where an error occurs and it will show it to you. If a variable isn't set correctly DevTools will show you the value of the variable (Codeschool, no date).
 
 #### More readable code
 As a developer you could minify your code to make performance better of your webpage but it does make your script a lot harder to read.
@@ -31,7 +31,7 @@ By adding a breakpoint to your script, you could pause your script when it comes
 In the editor you could create a breakpoint by clicking on the number of the line you want to pause. After adding a breakpoint, on the right top side of DevTools you can click the resume button to resume executing your script. Next to the resume button there is a 'Step Over' button, this will execute the next line of code. Next to that there is the 'Step into' button, which will execute whatever is inside the function of the highlighted line of code. Up next, 'Step out of' button will step out of the function and return to its collar. The last button will remove all of the breakpoints (Codeschool, no date).
 
 ## Network Tab
-In the network tab, DevTools will give you insights on how long your page takes to load and which files loads in what order. The network panel is very handy for testing how your page is loaded on different network speeds.
+In the Network tab, DevTools will give you insights on how long your page takes to load and which files load in what order. The network panel is very handy for testing how your page is loaded on different network speeds.
 
 To use it click on the tab and refresh the browser to see it in action.
 

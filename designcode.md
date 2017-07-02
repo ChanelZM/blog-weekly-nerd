@@ -6,28 +6,28 @@ During my second year studying at the University of Applied Sciences in Amsterda
 Not being able to accurately estimate what's possible is just one of the reasons why it doesn't hurt to know a little bit of code when you're a designer. Being a designer and knowing code has more pros than you think. Here's why.
 
 ## You'll get a better understanding of what's possible
-Just as the designer I mentioned in my example a lot of the designers think something can be easily build. My coach once said "Designers gooien werk over de schutting" (Literal translation: "Designers throw work over the fence") meaning that a designer would create a design, pass it to the developer and then completely disappear without a lot of communication expecting it to be done in an impossible amount of time. Designers don't have enough knowledge about code.
+Just as the designer I mentioned in my example a lot of the designers think something can be easily build. My coach once said "Designers gooien werk over de schutting" (Literal translation: "Designers throw work over the fence") meaning that a designer would create a design, pass it to the developer and then completely disappear without a lot of communication between the two, expecting it to be done in an impossible amount of time. Most designers just don't have enough knowledge about code.
 
-So how can we close this enormous gap of no-communication-and-understanding? Right, by learning code! You don't have to be a genius, but I'm certain that just the slightest bit of code would help a designer to understand that creating a product that works takes so much more time than previously expected. Learning code will give you a different perspective.
+So how can we close this enormous gap of no-communication-and-understanding? Right, by learning code! You don't have to be a genius, but I'm certain that just the slightest bit of code would help a designer to understand that creating a product that works takes so much more time than previously expected. Learning code will give you a different perspective and allows you to see how difficult it can be to write good code.
 
 ## You can already begin with styling in the browser
-Another pro if you're more comfortable with HTML and CSS is that you can already start with creating stuff in the browser instead of creating something static in Photoshop or Illustrator.
+Another advantage if you're more comfortable with HTML and CSS is that you can already start with creating stuff in the browser instead of creating something static in Photoshop or Illustrator.
 
-You'll also discover that there is so much more to style than you thought. You can now work with animations, transitions and hovers (all things you can not test in Illustrator or Photoshop). You could think about movement in general and have even more controll over your design.
+You'll also discover that there is so much more to style than you thought. You can now work with animations, transitions and hovers (all are things you can not test in Illustrator or Photoshop). You could think about movement in general and have even more control over your design.
 
 Because you are now able to code you could just show the developer what you would want in a little demo you made. The developer will then have a better view on how the design should be and create it for production. The communication between you and the developer will be a lot more clear.
 
-Last but not least, fixing minor problems can be done by you.
+Last but not least, fixing minor problems can be done by you. If a client comes back and asks for some minor adjustments like a color change, you can do that yourself (developers don't hate on me for saying that).
 
 ## You'll even be more valuable
 Being a designer AND a developer is really valuable. Because you are now skilled in both disciplines you'll have more job opportunities. Companies are looking for people that know both practices.
 
 Not only will you have more job opportunities, you will also be more valuable inside your team. If the developers have a hard time due to all of the projects you can help them out.
 
-You'll be a unicorn, a developer and designer. Scott Moris even calls you cool! (Morris, S).
+You'll be a unicorn, a developer and designer. Scott Moris even calls you cool!
 
 ## What others said
-These where my reasons why learning code has advantage but there a lot more reasons why starting code today is a really good decision, so if you're not entirely convinced maybe the next quotes will help you.
+These where my reasons why learning code has advantages but there a lot more reasons why starting code today is a really good decision, so if you're not entirely convinced maybe the next quotes will help you.
 
 ### It's timesaving
 Someone from Treehouse stated:
@@ -37,7 +37,7 @@ Someone from Treehouse stated:
 Someone from Treehouse stated:
 > *"Far from being a restriction, it(learning code) opened up a whole new realm of creative possibilities. Basically, learning code made me a much better Web Designer."*
 
-Scott Morris says in one of his articles:
+Scott Morris says the following in one of his articles:
 > *"To stay on top of things as a designer, it’s important to keep that creativity honed. Learning new skills is one way to keep your mind agile when thinking about problems and their creative solutions."*
 
 Monica Nakamine says:
